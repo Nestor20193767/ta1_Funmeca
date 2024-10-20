@@ -1,0 +1,6 @@
+av
+streamlit
+mediapipe
+tempfile
+pillow
+numpy
